@@ -61,7 +61,7 @@ The dataset contains **119,390 records** with the following key fields:
 
 ## 📷 Sample Dashboard Preview
 
-*You can add a screenshot here once you export one from Tableau as an image.*
+![image1](image1)
 
 ---
 
