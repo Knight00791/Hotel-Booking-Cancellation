@@ -61,7 +61,7 @@ The dataset contains **119,390 records** with the following key fields:
 
 ## 📷 Sample Dashboard Preview
 
-![image1](image1)
+![image1](https://github.com/Knight00791/Hotel-Booking-Cancellation/blob/main/Dashboard%201.png?raw=true)
 
 ---
 
